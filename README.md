@@ -12,4 +12,4 @@
 # for locally delete : git tag -d v1.0
 # for remotly delete : git tag -d v1.0
 # ● Add an image in the README.md file.
-# ![Beginner](download.PNG)
+# ![Beginner](download.png)
